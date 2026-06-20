@@ -26,6 +26,9 @@ This project implements a Watchdog Timer using Verilog HDL. A watchdog timer is 
 ## Tools Used
 - Verilog HDL
 - Xilinx Vivado
+## Simulation Result
+
+ [Waveform](waveform.png)
 
 ## Applications
 - Embedded Systems
